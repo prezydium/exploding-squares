@@ -1,0 +1,12 @@
+#main-game-field {
+    border-style: solid;
+    border: 1px;
+    height: 80%;
+    width: 60%;
+        background-color: lightblue;
+}
+
+body {
+    background-color: red;
+}
+

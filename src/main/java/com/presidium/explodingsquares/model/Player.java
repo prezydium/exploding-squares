@@ -1,4 +1,4 @@
-package com.presidium.explodingsquares.player;
+package com.presidium.explodingsquares.model;
 
 public class Player {
 

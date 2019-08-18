@@ -8,7 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 public class GameViewController {
 
-    @RequestMapping(method = RequestMethod.POST)
+    @RequestMapping(path = "/game" ,method = RequestMethod.GET)
     public ModelAndView basicGameView() {
         return new ModelAndView("game");
     }
